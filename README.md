@@ -4,9 +4,9 @@
 
 <h1>RUBAYET KHAN</h1>
 
-<p><strong>SOFTWARE SYSTEMS · DATA-FIRST PRODUCTS · AUTOMATION</strong></p>
+<p><strong>FULL STACK DEVELOPER · WEB & APP DEVELOPMENT · DATA-FIRST PRODUCTS · AUTOMATION</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=55F2FF&center=true&vCenter=true&width=860&height=48&lines=BUILDING+USEFUL+DIGITAL+PRODUCTS;DESIGNING+CLEAN+DATA+SYSTEMS;AUTOMATING+REPETITIVE+WORKFLOWS;TURNING+IDEAS+INTO+WORKING+SOFTWARE" alt="Animated developer tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=55F2FF&center=true&vCenter=true&width=860&height=48&lines=FULL+STACK+WEB+%26+APP+DEVELOPER;BUILDING+USEFUL+DIGITAL+PRODUCTS;DESIGNING+CLEAN+DATA+SYSTEMS;AUTOMATING+REPETITIVE+WORKFLOWS;TURNING+IDEAS+INTO+WORKING+SOFTWARE" alt="Animated developer tagline" />
 
 <br />
 
@@ -16,7 +16,7 @@
 
 <br />
 
-<code>STATUS: BUILDING</code> &nbsp; <code>NODE: BANGLADESH</code> &nbsp; <code>MODE: PRODUCT-MINDED ENGINEERING</code>
+<code>STATUS: BUILDING</code> &nbsp; <code>NODE: BANGLADESH</code> &nbsp; <code>MODE: FULL STACK ENGINEERING</code>
 
 </div>
 
@@ -26,21 +26,22 @@
 
 ```text
 operator@rubayet9:~$ whoami
-Rubayet Khan — a product-minded builder focused on useful software,
-structured information, practical automation, and clear user experiences.
+Rubayet Khan — a full stack developer focused on useful web & mobile products,
+structured information, practical automation, and clean user experiences.
 
 operator@rubayet9:~$ mission
 Turn messy workflows into reliable systems that people can actually use.
 ```
 
-I enjoy working where **web interfaces, structured data, business workflows, and automation** meet. My focus is not just making a page look good; it is organizing the underlying information and process so the product stays understandable, maintainable, and useful.
+I work across the full stack — from **frontend interfaces and mobile apps** to **backend APIs, databases, and automation workflows**. My focus is not just making things look good; it is organizing the underlying data and process so the product stays understandable, maintainable, and useful.
 
 | Focus area | What I work toward |
 |---|---|
-| **Product engineering** | Turning an idea into a clear specification, user flow, and practical implementation plan. |
-| **Data systems** | Organizing large, hierarchical datasets so they can be searched, validated, updated, and reused. |
+| **Full Stack Development** | End-to-end product engineering — frontend, backend, database, and deployment. |
+| **Web Development** | Responsive, accessible, and performant web interfaces with intentional layout. |
+| **App Development** | Cross-platform mobile apps with smooth UX and reliable data handling. |
+| **Data systems** | Organizing large, hierarchical datasets so they can be searched, validated, and reused. |
 | **Workflow automation** | Reducing repetitive manual work with scripts, integrations, and AI-assisted workflows. |
-| **Interface craft** | Building readable, responsive interfaces with intentional layout and visual hierarchy. |
 
 ---
 
@@ -132,21 +133,46 @@ flowchart TB
 
 <div align="center">
 
-**WEB & UI**  
+**FRONTEND & WEB**
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
-**DATA & INTEGRATION**  
+**BACKEND & API**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase" />
+
+**APP DEVELOPMENT**
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React Native" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+
+**DATABASE**
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+**DATA & INTEGRATION**
 <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=55F2FF" alt="JSON" />
 <img src="https://img.shields.io/badge/Excel%20Workflows-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel workflows" />
-<img src="https://img.shields.io/badge/API%20Integration-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="API integration" />
 
-**VERSION CONTROL & AI EXPLORATION**  
+**VERSION CONTROL & AI**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/AI%20APIs-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI APIs" />
 <img src="https://img.shields.io/badge/MCP%20Exploration-0F172A?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP exploration" />
+
+**TOOLS & DEPLOYMENT**
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 
 </div>
 
@@ -195,7 +221,9 @@ A few public repositories and frontend experiments from my profile:
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rubayet9&show_icons=true&hide_border=true&bg_color=0B1020&title_color=55F2FF&icon_color=8B5CF6&text_color=E6F1FF&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://streak-stats.demolab.com?user=rubayet9&hide_border=true&background=0B1020&stroke=26334D&ring=55F2FF&fire=8B5CF6&currStreakLabel=55F2FF&sideLabels=E6F1FF&dates=94A3B8" alt="Contribution streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayet9&layout=compact&hide_border=true&bg_color=0B1020&title_color=55F2FF&text_color=E6F1FF&langs_count=8" alt="Top languages" />
+  <br />
+  <img width="100%" src="https://streak-stats.demolab.com?user=rubayet9&hide_border=true&background=0B1020&stroke=26334D&ring=55F2FF&fire=8B5CF6&currStreakLabel=55F2FF&sideLabels=E6F1FF&dates=94A3B8" alt="Contribution streak" />
   <br />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rubayet9&bg_color=0B1020&color=55F2FF&line=8B5CF6&point=E6F1FF&area=true&hide_border=true&custom_title=RUBAYET%20%2F%20CONTRIBUTION%20TRACE" alt="Contribution activity graph" />
 </div>
@@ -203,7 +231,11 @@ A few public repositories and frontend experiments from my profile:
 ### Contribution animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rubayet9/rubayet9/output/github-snake.svg" alt="Animated contribution snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubayet9/rubayet9/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rubayet9/rubayet9/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/rubayet9/rubayet9/output/github-snake.svg" alt="Animated contribution snake" width="100%" />
+  </picture>
 </div>
 
 The snake image is generated by the included GitHub Actions workflow. It appears after the workflow runs successfully for the first time.
@@ -233,10 +265,18 @@ The snake image is generated by the included GitHub Actions workflow. It appears
 
 ### `07 / ESTABLISH CONNECTION`
 
-**Have a practical idea, a data problem, or a product to build?**  
-Explore the repositories or connect through GitHub.
+**Have a practical idea, a data problem, or a product to build?**
+Let's connect and make something useful.
 
-<a href="https://github.com/rubayet9"><img src="https://img.shields.io/badge/CONNECT-@rubayet9-0B1020?style=for-the-badge&logo=github&logoColor=55F2FF" alt="Connect on GitHub" /></a>
+<br />
+
+<a href="https://github.com/rubayet9"><img src="https://img.shields.io/badge/GITHUB-@rubayet9-0B1020?style=for-the-badge&logo=github&logoColor=55F2FF&labelColor=0B1020" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/rubayet-khan-7339552a4"><img src="https://img.shields.io/badge/LINKEDIN-Rubayet%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn" /></a>
+<a href="mailto:mdrubayetkhan9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mdrubayetkhan9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" alt="Email" /></a>
+<a href="https://rubayetkhan.is-best.net"><img src="https://img.shields.io/badge/PORTFOLIO-rubayetkhan.is--best.net-55F2FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0B1020" alt="Portfolio" /></a>
+
+<br /><br />
+
 <a href="https://github.com/rubayet9?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20THE%20WORK-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="View repositories" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:12304A,100:00BFD8&height=110&section=footer" width="100%" alt="Neon footer" />
