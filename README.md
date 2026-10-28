@@ -182,31 +182,35 @@ flowchart TB
 
 ## `05 / PUBLIC REPOSITORY SIGNALS`
 
-A few public repositories and frontend experiments from my profile:
+A curated selection of my latest projects and live web applications:
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rubayet9/portfolio-web">portfolio-web</a></h3>
-      <p>Personal web and portfolio interface work.</p>
-      <a href="https://github.com/rubayet9/portfolio-web"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-55F2FF?style=flat-square&logo=github&logoColor=0B1020" alt="Open portfolio-web" /></a>
+      <h3><a href="https://github.com/rubayet9/Jomi-Porimap-web">📐 Jomi Porimap Web</a></h3>
+      <p>A smart land measurement and surveying web platform built with TypeScript, featuring real-time area calculation and interactive mapping.</p>
+      <a href="https://github.com/rubayet9/Jomi-Porimap-web"><img src="https://img.shields.io/badge/OPEN%20REPO-55F2FF?style=flat-square&logo=github&logoColor=0B1020" alt="Open Jomi-Porimap-web" /></a>
+      <a href="https://jomi-porimap-web.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rubayet9/B9A2-Hero-Travel-main">B9A2 — Hero Travel</a></h3>
-      <p>Travel-themed frontend practice project.</p>
-      <a href="https://github.com/rubayet9/B9A2-Hero-Travel-main"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-55F2FF?style=flat-square&logo=github&logoColor=0B1020" alt="Open Hero Travel" /></a>
+      <h3><a href="https://github.com/rubayet9/Residential-landing-page">🏢 Residential Landing Page</a></h3>
+      <p>A high-conversion real estate & luxury residential showcase landing platform with modern UI architecture and responsive layouts.</p>
+      <a href="https://github.com/rubayet9/Residential-landing-page"><img src="https://img.shields.io/badge/OPEN%20REPO-55F2FF?style=flat-square&logo=github&logoColor=0B1020" alt="Open Residential-landing-page" /></a>
+      <a href="https://residential-landing-page-delta.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rubayet9/B9A3-Hockeys-main">B9A3 — Hockeys</a></h3>
-      <p>A sports-themed layout and responsive UI exercise.</p>
-      <a href="https://github.com/rubayet9/B9A3-Hockeys-main"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-55F2FF?style=flat-square&logo=github&logoColor=0B1020" alt="Open Hockeys" /></a>
+      <h3><a href="https://github.com/rubayet9/RR3-Rent-A-Car">🚗 RR3 — Rent A Car</a></h3>
+      <p>Digital mobility and vehicle rental network ecosystem engineered for seamless vehicle bookings and fleet operations in Bangladesh.</p>
+      <a href="https://github.com/rubayet9/RR3-Rent-A-Car"><img src="https://img.shields.io/badge/OPEN%20REPO-55F2FF?style=flat-square&logo=github&logoColor=0B1020" alt="Open RR3-Rent-A-Car" /></a>
+      <a href="https://rr-3-rent-a-car.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rubayet9/g3-architects-resources-main">G3 Architects</a></h3>
-      <p>An architecture-themed web design practice project.</p>
-      <a href="https://github.com/rubayet9/g3-architects-resources-main"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-55F2FF?style=flat-square&logo=github&logoColor=0B1020" alt="Open G3 Architects" /></a>
+      <h3><a href="https://github.com/rubayet9/Ai-Excel-Studio">📊 AI Excel Studio</a></h3>
+      <p>An intelligent data processing and spreadsheet automation engine powered by Python, LLM workflows, and schema validation.</p>
+      <a href="https://github.com/rubayet9/Ai-Excel-Studio"><img src="https://img.shields.io/badge/OPEN%20REPO-55F2FF?style=flat-square&logo=github&logoColor=0B1020" alt="Open Ai-Excel-Studio" /></a>
+      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Engine" />
     </td>
   </tr>
 </table>
